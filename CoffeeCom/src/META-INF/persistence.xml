@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="1.0" xmlns="http://java.sun.com/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/persistence http://java.sun.com/xml/ns/persistence/persistence_1_0.xsd">
+	<persistence-unit name="CoffeeCom">
+		<class>com.ut.vo.Asociacion</class>
+		<class>com.ut.vo.Caficultor</class>
+		<class>com.ut.vo.Finca</class>
+		<class>com.ut.vo.Lote</class>
+		<class>com.ut.vo.Tipocafe</class>
+	</persistence-unit>
+</persistence>
